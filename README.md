@@ -9,7 +9,7 @@ It's an app that helps you to set goals that you can achieve.
 
 ## How to run the app
 
-1 Clone the repo from https://github.com/MaYaEndeshew/maya-flutter-todoApp
+1 Clone the repo from https://github.com/MaYaEndeshew/maya3flutter_app
 2 Install the dependencies using flutter 
 3 Start the emulator and Run it
 
