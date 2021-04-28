@@ -1,6 +1,8 @@
 # maya3flutter_app
 
 A Goal setting Flutter APP (UI)
+## IMage in read me
+![](assets/images/UIGoalApp.png)
 
 ## Getting Started 🚀
 It's an app that helps you to set goals that you can achieve.
